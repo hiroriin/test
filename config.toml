@@ -1,0 +1,13 @@
+baseurl = "http://hiroriin.github.io/"
+languageCode = "jp"
+title = "Minimal Hugo Site"
+
+[params]
+  Subtitle = "minimal life"
+  GithubID = "Your Github ID"
+  TwitterID = "hiroriin"
+  AnalyticsID = "Your Google Analytics tracking code"
+  DisqusShortname = "Your Disqus shortname"
+  Summary = true  # takes true or false
+  Content = true  # takes true or false
+  # if both are set to true, summary is shown.

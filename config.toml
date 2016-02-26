@@ -1,4 +1,4 @@
-baseurl = "http://hiroriin.github.io/"
+baseurl = "http://localhost:1313/"
 languageCode = "jp"
 title = "Minimal Hugo Site"
 

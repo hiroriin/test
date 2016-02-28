@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Minimal Hugo Site</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://localhost:1313/public/post/</link>
     <description>Recent content in Posts on Minimal Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Sun, 28 Feb 2016 16:55:35 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/public/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>2016 05 14_loremipsum</title>
-      <link>http://localhost:1313/post/2016-05-14_loremipsum/</link>
+      <link>http://localhost:1313/public/post/2016-05-14_loremipsum/</link>
       <pubDate>Sun, 28 Feb 2016 16:55:35 +0900</pubDate>
       
-      <guid>http://localhost:1313/post/2016-05-14_loremipsum/</guid>
+      <guid>http://localhost:1313/public/post/2016-05-14_loremipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2015 05 14_loremipsum</title>
-      <link>http://localhost:1313/post/2015-05-14_loremipsum/</link>
+      <link>http://localhost:1313/public/post/2015-05-14_loremipsum/</link>
       <pubDate>Sun, 28 Feb 2016 16:47:21 +0900</pubDate>
       
-      <guid>http://localhost:1313/post/2015-05-14_loremipsum/</guid>
+      <guid>http://localhost:1313/public/post/2015-05-14_loremipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2016 2 24_sample</title>
-      <link>http://localhost:1313/post/sample/</link>
+      <link>http://localhost:1313/public/post/sample/</link>
       <pubDate>Wed, 24 Feb 2016 18:09:57 +0900</pubDate>
       
-      <guid>http://localhost:1313/post/sample/</guid>
+      <guid>http://localhost:1313/public/post/sample/</guid>
       <description>&lt;p&gt;asdfhgkiuhhhhhhhhhhhhhhhhhh&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>hogehoge</title>
-      <link>http://localhost:1313/post/hogehoge/</link>
+      <link>http://localhost:1313/public/post/hogehoge/</link>
       <pubDate>Wed, 24 Feb 2016 18:08:01 +0900</pubDate>
       
-      <guid>http://localhost:1313/post/hogehoge/</guid>
+      <guid>http://localhost:1313/public/post/hogehoge/</guid>
       <description></description>
     </item>
     

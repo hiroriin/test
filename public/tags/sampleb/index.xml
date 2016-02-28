@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sampleb on Minimal Hugo Site</title>
-    <link>http://localhost:1313/hiroriin/hiroriin.github.io/tags/sampleb/</link>
+    <link>http://localhost:1313/tags/sampleb/</link>
     <description>Recent content in Sampleb on Minimal Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Wed, 24 Feb 2016 18:09:57 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/hiroriin/hiroriin.github.io/tags/sampleb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sampleb/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>2016 2 24_sample</title>
-      <link>http://localhost:1313/hiroriin/hiroriin.github.io/post/sample/</link>
+      <link>http://localhost:1313/post/sample/</link>
       <pubDate>Wed, 24 Feb 2016 18:09:57 +0900</pubDate>
       
-      <guid>http://localhost:1313/hiroriin/hiroriin.github.io/post/sample/</guid>
+      <guid>http://localhost:1313/post/sample/</guid>
       <description>&lt;p&gt;asdfhgkiuhhhhhhhhhhhhhhhhhh&lt;/p&gt;
 </description>
     </item>
